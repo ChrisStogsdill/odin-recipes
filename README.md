@@ -1,2 +1,3 @@
 # odin-recipes
-This is a project to put together the beginning lessons on html 
+This is to put together a simple site with text. 
+Adding in lists and paragraphs. 
